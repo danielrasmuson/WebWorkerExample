@@ -1,0 +1,19 @@
+{
+  "name": "WebWorkerExample",
+  "version": "0.0.0",
+  "homepage": "https://github.com/danielrasmuson/WebWorkerExample",
+  "authors": [
+    "Daniel Rasmuson <dan123911@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "q": "~1.0.1"
+  }
+}
